@@ -1,0 +1,46 @@
+h1 {
+  text-align: center;
+  color: rgb(14, 14, 82);
+}
+h3 {
+  text-align: center;
+  color: rgb(199, 16, 16);
+}
+.heading {
+  border: 1px solid rgba(133, 16, 97, 0.795);
+  display: inline;
+}
+.box {
+  border: 1px solid blue;
+  width: 800px;
+  height: 400px;
+  margin: 35px;
+  display: flex;
+  background-color: grey;
+  margin: 20px auto;
+}
+.imagebox {
+  border: 1px solid black;
+  height: 150px;
+  width: 150px;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+.imagebox2 {
+  border: 1px solid greenyellow;
+  border-radius: 50px;
+  height: 100px;
+  width: 100px;
+  margin: 25px;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
+h4 {
+  padding: 20px;
+}
+.details {
+  margin: 30px;
+  text-align: right;
+}
